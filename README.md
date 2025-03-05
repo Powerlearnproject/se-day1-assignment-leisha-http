@@ -1,17 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18530244&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 software engeneering is the systematic application of engeneering tools used for developing and maintaining software, it is important in the technology industry because it plays an impotant part by allowing the creation applications and systems that power the aspects of morden life these can include entertainment, healthcare and communication.
- 
 Identify and describe at least three key milestones in the evolution of software engineering.
 the development of programming languages 
 mastering complexity 
 mastering progress
-
 List and briefly explain the phases of the Software Development Life Cycle.
 requirements:gathering and indentifying user needs and system requirements 
 design: creating detailed designs of the software architecture and user specifications 
@@ -19,7 +15,6 @@ implementaion:writing code and building the software according to design specifi
 testing: conducting tests to ensure the software meets quality standards and functional requirements
 development: releasing the software to users
 maintenance: providing enhancments and updates to the software after development 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodlogies: sequential approach with distinct phases 
 - low flexibility
@@ -31,7 +26,6 @@ aglie metodologies: iterative and incremental approach with mutliple cycles
 - adapts to chaging requirements
 - there is regular customer feedback into evry sprint
 - continuous testing is done after each iteration 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 software developer responsibilities:
 - writing code and implementing software solutions
@@ -49,7 +43,6 @@ project magaer responsibilities:
 - discuss projects and requirements with client and software developers
 - communicating information regarding the prohects milestone
 - delivering the complete software to the client and checking its performance regularly 
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDE is a software suite that facilitates the creation of other software applications by providing a space to write, debu and test code and example of such is Eclipse
 importance:
@@ -61,8 +54,6 @@ importance:
 - collaboration:Enables multiple developers to work on the same codebase without conflicts
 - change Tracking: Records detailed history of changes, allowing easy analysis of each modification
 - error recovery: allows reverting to previous versions if theres any new chnages 
-
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 changing requirements: may change during development cycle
 solution:adopting agile development which emphasizes iterative and adaptabilty enabling flexibility 
@@ -77,8 +68,6 @@ intergration testin: testing interactions between different components, this hel
 system testing: testing the entire spftware system as a whole helping to verify that the system meets all functional and non-functional requirements
 acceptance testing: testing the software against user requirements to ensure it meets user needs -
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering is the process of crafting questions or stantements to get the best possible responses from AI models, it is important as it assists to avoid not getting confusing and vague answers it is also important as it can improve users expirience and increase flxibilty 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
@@ -87,4 +76,3 @@ Draw a portrait of a red car with a cycle carrier with no bicycle present with i
 Clarity: The improved prompt specifies what is being asked an image of a car
 Specific Details: Describing the car's appearance (red, with cycle carrier , with hazards on ) and the setting (next to a blue building with ther sign "supermarket" on yellow) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
-
